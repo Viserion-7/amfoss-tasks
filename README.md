@@ -17,6 +17,6 @@
 [Task-11](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-11)|Figma Ninja|
 [Task-12](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-12)|Bunny Heist|
 [Task-13](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-13)|Footfall Counter|
-[Task-14](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-14)|Bnadit|
+[Task-14](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-14)|Bandit|
 [Task-15](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-15)|Project Euler|
 
