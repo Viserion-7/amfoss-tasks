@@ -1,0 +1,17 @@
+/home/viserion/Desktop/tasks/task-05/Client/bin/Debug/net6.0/Client
+/home/viserion/Desktop/tasks/task-05/Client/bin/Debug/net6.0/Client.deps.json
+/home/viserion/Desktop/tasks/task-05/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/viserion/Desktop/tasks/task-05/Client/bin/Debug/net6.0/Client.dll
+/home/viserion/Desktop/tasks/task-05/Client/bin/Debug/net6.0/ref/Client.dll
+/home/viserion/Desktop/tasks/task-05/Client/bin/Debug/net6.0/Client.pdb
+/home/viserion/Desktop/tasks/task-05/Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.dll
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/ref/Client.dll
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.pdb
+/home/viserion/Desktop/tasks/task-05/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
