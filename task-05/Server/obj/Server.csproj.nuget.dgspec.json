@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/viserion/Desktop/tasks/task-05/Server/Server.csproj": {}
+    "/home/viserion/NEW/amfoss-tasks/task-05/Server/Server.csproj": {}
   },
   "projects": {
-    "/home/viserion/Desktop/tasks/task-05/Server/Server.csproj": {
+    "/home/viserion/NEW/amfoss-tasks/task-05/Server/Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/viserion/Desktop/tasks/task-05/Server/Server.csproj",
+        "projectUniqueName": "/home/viserion/NEW/amfoss-tasks/task-05/Server/Server.csproj",
         "projectName": "Server",
-        "projectPath": "/home/viserion/Desktop/tasks/task-05/Server/Server.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/viserion/Desktop/tasks/task-05/Server/obj/",
+        "projectPath": "/home/viserion/NEW/amfoss-tasks/task-05/Server/Server.csproj",
+        "packagesPath": "/home/viserion/.nuget/packages/",
+        "outputPath": "/home/viserion/NEW/amfoss-tasks/task-05/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/viserion/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

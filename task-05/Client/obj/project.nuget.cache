@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J+adBQZtKZ5KN7PlJFdxkrjYFXSOxBRAoQLKQFA7poo8L09JmvoVMck+USK0aD+/p6WVsLVgwyDc39S4Gj9YyQ==",
+  "dgSpecHash": "TXqGagvB0HFVdm5zaK9KVzhcp8kPdGXznilT5cy8w//p8UGxSaobZnHVaq4PElnvyQ52ezKSgPu9CiTg7x1F9g==",
   "success": true,
-  "projectFilePath": "/home/viserion/Desktop/tasks/task-05/Client/Client.csproj",
+  "projectFilePath": "/home/viserion/NEW/amfoss-tasks/task-05/Client/Client.csproj",
   "expectedPackageFiles": [
-    "/root/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+    "/home/viserion/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

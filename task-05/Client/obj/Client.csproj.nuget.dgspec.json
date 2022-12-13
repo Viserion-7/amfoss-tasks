@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/viserion/Desktop/tasks/task-05/Client/Client.csproj": {}
+    "/home/viserion/NEW/amfoss-tasks/task-05/Client/Client.csproj": {}
   },
   "projects": {
-    "/home/viserion/Desktop/tasks/task-05/Client/Client.csproj": {
+    "/home/viserion/NEW/amfoss-tasks/task-05/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/viserion/Desktop/tasks/task-05/Client/Client.csproj",
+        "projectUniqueName": "/home/viserion/NEW/amfoss-tasks/task-05/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "/home/viserion/Desktop/tasks/task-05/Client/Client.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/viserion/Desktop/tasks/task-05/Client/obj/",
+        "projectPath": "/home/viserion/NEW/amfoss-tasks/task-05/Client/Client.csproj",
+        "packagesPath": "/home/viserion/.nuget/packages/",
+        "outputPath": "/home/viserion/NEW/amfoss-tasks/task-05/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/viserion/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
