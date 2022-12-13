@@ -13,7 +13,7 @@ Task-06|Flame Game|Not Attempted
 Task-07|Go WASM|Not Attempted
 [Task-08](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-08)|Internet Explorer|Completed
 Task-09|Krypto Scrapper|Not Attempted
-[Task-10](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-10)|CS50|
+[Task-10](https://github.com/Viserion-7/amfoss-tasks/tree/main/task-10)|CS50|Completed
 Task-11|Figma Ninja|Not Attempted
 Task-12|Bunny Heist|Not Attempted
 Task-13|Footfall Counter|Not Attempted
