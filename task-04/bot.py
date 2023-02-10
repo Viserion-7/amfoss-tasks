@@ -5,7 +5,6 @@ import json
 import csv
 
 botRunning=True
-apitok='5847453947:AAHQMgkcl7hKs-QaZgRSWPnOnuLVlYV2kww'
 bot = telebot.TeleBot(apitok)
 
 def csvExport(data):
