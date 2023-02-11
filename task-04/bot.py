@@ -11,13 +11,13 @@ def csvExport(data):
 
     filename = "//home//viserion//Desktop//tasks//task-04//movie.csv"
     with open(filename, 'w') as csvfile:
-    	csvwriter = csv.writer(csvfile)
-    	csvwriter.writerow(data)
-    	csvfile.close()
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow(data)
+        csvfile.close()
     
 def getmovie(name):
     movieName=name.strip("/movie ")
-    urlData=requests.get(f"http://www.omdbapi.com/?apikey=942859ea&t="+movieName)
+    urlData=requests.get(f"http://www.omdbapi.com/?apikey={bot}="+movieName)
     
     global fields
     fields=urlData.json()
@@ -55,9 +55,9 @@ def getMovie(message):
 def getList(message):
     filename = "//home//viserion//Desktop//tasks//task-04//movie.csv"
     with open(filename, 'w') as csvfile:
-    	csvwriter = csv.writer(csvfile)
-    	csvwriter.writerow([fields["Title"],fields["Year"],fields["Ratings"][0]["Value"]])
-    	csvfile.close()
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow([fields["Title"],fields["Year"],fields["Ratings"][0]["Value"]])
+        csvfile.close()
     bot.reply_to(message, 'Generating file...')
     file= open("movie.csv","r")
     bot.send_document(message.chat.id,file)
