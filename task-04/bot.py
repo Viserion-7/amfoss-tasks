@@ -9,7 +9,7 @@ bot = telebot.TeleBot(cred.apitok)
 
 def csvExport(data):
 
-    filename = "//home//viserion//Desktop//tasks//task-04//movie.csv"
+    filename = "movie.csv"
     with open(filename, 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow(data)
@@ -53,7 +53,7 @@ def getMovie(message):
   
 @bot.message_handler(func=lambda message: botRunning, commands=['export'])
 def getList(message):
-    filename = "//home//viserion//Desktop//tasks//task-04//movie.csv"
+    filename = "movie.csv"
     with open(filename, 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
         csvwriter.writerow([fields["Title"],fields["Year"],fields["Ratings"][0]["Value"]])
