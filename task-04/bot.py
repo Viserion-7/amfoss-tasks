@@ -3,9 +3,9 @@ import telebot
 import requests
 import json
 import csv
-
+import cred
 botRunning=True
-bot = telebot.TeleBot(apitok)
+bot = telebot.TeleBot(cred.apitok)
 
 def csvExport(data):
 
